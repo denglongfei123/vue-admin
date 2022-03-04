@@ -4,7 +4,7 @@
 // })
 
 const path = require('path')
-const name = 'vue admin'
+const name = '微信看榜'
 
 function resolve(dir){
   return path.join(__dirname, dir)
